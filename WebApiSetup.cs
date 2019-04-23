@@ -1,7 +1,6 @@
 using System.Diagnostics.CodeAnalysis;
 using System.Web.Http;
 using Sitecore.Pipelines;
-using TdcErhverv.Website.Code.Pipelines;
 
 namespace MyWebsite
 {
